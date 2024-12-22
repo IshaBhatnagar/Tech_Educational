@@ -1,2 +1,2 @@
-# Tech_Educational
-A blog dedicated to educating readers on technology-related topics.
+# Tech-Educatinal-Blog
+This is a tech educational blog. This blog contain information and latest news about latest technologies.
